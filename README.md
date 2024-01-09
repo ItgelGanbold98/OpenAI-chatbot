@@ -117,6 +117,8 @@ Now, you can test your server using a tool such as Postman to verify that it is 
 <img src = 'images/postman.png' alt='postman' style={{}} />
 
 10. Here is an example from my portfolio, where the model is trained on my CV and has been integrated with a basic front-end.
+<img src = 'images/chat-window.png' alt='chat-window' width = 300px />
 
-## That's it 🌟! Now, you can deploy your server wherever you'd like and connect it to your front-end. This was a fun project and has hopefully helped you.
+
+### That's it 🌟! Now, you can deploy your server wherever you'd like and connect it to your front-end. This was a fun project and has hopefully helped you.
 

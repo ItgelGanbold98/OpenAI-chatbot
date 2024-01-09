@@ -5,4 +5,5 @@ I will primarily focus on the back-end implementation as the front-end can be do
 ## Obtain an API key
 
 1. Go to [OpenAI platform](https://platform.openai.com/)
-2. 
+2. Click on API keys and then click on ` + Create new secret key `, make sure to copy it somewhere safe!
+3. Now you can move on to creating the back-end server.

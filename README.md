@@ -1,4 +1,6 @@
 # OpenAI-Chatbot using Express server and OpenAI-API
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,js&perline=10)](https://skillicons.dev)
+
 #### In this repository I will outline what I learned when implementing a chatbot to my portfolio [website](https://itgelganbold.com)
 I will primarily focus on the back-end implementation as the front-end can be done in many different ways depending on your individual needs.
 
@@ -113,3 +115,8 @@ app.listen(PORT, () => {
 9. Locally, you can your server by running `npm run dev`, but make sure to have `"scripts": {"dev": "node server.js"},`
 Now, you can test your server using a tool such as Postman to verify that it is working as intended.
 <img src = 'images/postman.png' alt='postman' style={{}} />
+
+10. Here is an example from my portfolio, where the model is trained on my CV and has been integrated with a basic front-end.
+
+## That's it 🌟! Now, you can deploy your server wherever you'd like and connect it to your front-end. This was a fun project and has hopefully helped you.
+

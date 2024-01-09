@@ -1,4 +1,4 @@
-# OpenAI-Chatbot using Express server and OpenAI-API
+# OpenAI-Chatbot using Express and OpenAI-API
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,js&perline=10)](https://skillicons.dev)
 
 #### In this repository I will outline what I learned when implementing a chatbot to my portfolio [website](https://itgelganbold.com)

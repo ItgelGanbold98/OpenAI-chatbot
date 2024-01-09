@@ -6,7 +6,8 @@ I will primarily focus on the back-end implementation as the front-end can be do
 
 1. Go to [OpenAI platform](https://platform.openai.com/)
 2. Click on API keys and then click on ` + Create new secret key `, make sure to copy it somewhere safe!
-3. Now you can move on to creating the back-end server.
+   <img src='images/openai_platform.png' style = {{}} alt="openai_platform"/>
+4. Now you can move on to creating the back-end server.
 
 
 ## Build server-side code
@@ -111,3 +112,4 @@ app.listen(PORT, () => {
 
 9. Locally, you can your server by running `npm run dev`, but make sure to have `"scripts": {"dev": "node server.js"},`
 Now, you can test your server using a tool such as Postman to verify that it is working as intended.
+<img src = 'images/postman.png' alt='postman' style={{}} />

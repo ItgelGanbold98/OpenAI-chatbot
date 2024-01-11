@@ -120,5 +120,7 @@ Now, you can test your server using a tool such as Postman to verify that it is 
 <img src = 'images/chat-window.png' alt='chat-window' width = 300px />
 
 
-### That's it 🌟! Now, you can deploy your server wherever you'd like and connect it to your front-end. This was a fun project and has hopefully helped you.
+### That's it 🌟! Now, you can deploy your server wherever you'd like and connect it to your front-end. 
+### `Note:` You can implement a way to handle different sessions so that the chatbot can remember the conversations. To remember conversation, you need to feed it the whole session history each time. See [here.](https://community.openai.com/t/gpt-3-5-turbo-how-to-remember-previous-messages-like-chat-gpt-website/170370/5)
+### This was a fun project and has hopefully helped you create your personal chatbot!
 

@@ -1,10 +1,19 @@
 # OpenAI-Chatbot using Express and OpenAI-API
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,js&perline=10)](https://skillicons.dev)
 
-#### In this repository I will outline what I learned when implementing a chatbot to my portfolio [website](https://itgelganbold.com)
+## Table of Contents
+- [Introduction](#introduction)
+- [Key](#key)
+- [Server](#server)
+- [Usage](#usage)
+
+
+## [Introduction](#introduction) 
+In this repository, I will outline what I learned when implementing a chatbot to my portfolio [website](https://itgelganbold.com)
 I will primarily focus on the back-end implementation as the front-end can be done in many different ways depending on your individual needs.
 
-## Obtain an API key
+## [Key](#key)
+Obtain an API key
 
 1. Go to [OpenAI platform](https://platform.openai.com/)
 2. Click on API keys and then click on ` + Create new secret key `, make sure to copy it somewhere safe!
@@ -12,7 +21,10 @@ I will primarily focus on the back-end implementation as the front-end can be do
 4. Now you can move on to creating the back-end server.
 
 
-## Build server-side code
+## [Server](#server)
+
+Build server-side code
+
 1. For this part I will use Express and Node. Make sure you have npm installed. First, make a suitable folder.
 ```
 mkdir ChatbotServer
@@ -116,7 +128,9 @@ app.listen(PORT, () => {
 Now, you can test your server using a tool such as Postman to verify that it is working as intended.
 <img src = 'images/postman.png' alt='postman' style={{}} />
 
-10. Here is an example from my portfolio, where the model is trained on my CV and has been integrated with a basic front-end.
+## [Usage](#usage)
+
+Here is an example from my portfolio, where the model is trained on my CV and has been integrated with a basic front-end.
 <img src = 'images/chat-window.png' alt='chat-window' width = 300px />
 
 

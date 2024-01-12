@@ -3,8 +3,8 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Key](#key)
-- [Server](#server)
+- [OpenAI API Key](#openai-api-key)
+- [Server Code](#server-code)
 - [Usage](#usage)
 
 
@@ -12,7 +12,7 @@
 In this repository, I will outline what I learned when implementing a chatbot to my portfolio [website](https://itgelganbold.com)
 I will primarily focus on the back-end implementation as the front-end can be done in many different ways depending on your individual needs.
 
-## [Key](#key)
+## [OpenAI API Key](#openai-api-key)
 Obtain an API key
 
 1. Go to [OpenAI platform](https://platform.openai.com/)
@@ -21,7 +21,7 @@ Obtain an API key
 4. Now you can move on to creating the back-end server.
 
 
-## [Server](#server)
+## [Server Code](#server-code)
 
 Build server-side code
 
